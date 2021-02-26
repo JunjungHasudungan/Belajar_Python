@@ -13,6 +13,6 @@ def diskon(hargaDasar):
     return hasilDiskon
 
 hargaAwal = 10000
-total = diskon(hargaAwal)
+total = diskon(hargaAwal) 
 print("Harga awal: ", hargaAwal)
 print("Harga Setelah diskon:", total)
