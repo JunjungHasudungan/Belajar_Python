@@ -1,9 +1,9 @@
 # create some data member
-# i = 1
-i = int(input("Masukkan angka pada i: "))
+a = 1
+b = int(input("Masukkan angka pada a : "))
 
-while i < 10:
-    print(i)
-    if i == 5:
+while a < b:
+    print(a)
+    if a > b:
         break
-    i += 2
+    a += 1 # kelipatan 1 

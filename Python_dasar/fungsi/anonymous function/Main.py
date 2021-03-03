@@ -1,0 +1,20 @@
+perkalian = lambda a, b: a * b
+print("Perkalian")
+a = int(input("Masukkan nilai a: "))
+b = int(input("Masukkan nilai b: "))
+hasil = perkalian(a, b)
+print(a, "*", b, "=", hasil)
+print(" ")
+penjumlahan = lambda a, b: a + b
+print("Penjumlahan")
+a = int(input("Masukkan nilai a: "))
+b = int(input("Masukkan nilai b: "))
+hasil = penjumlahan(a, b)
+print(a, "+", b, "=", hasil)
+print(" ")
+kuadrat = lambda a: a ** 2
+print("kuadrat")
+a = int(input("Masukkan nilai a: "))
+hasil = kuadrat(a)
+print(a, "^" "=", hasil)
+print(" ")

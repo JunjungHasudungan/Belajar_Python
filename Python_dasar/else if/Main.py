@@ -1,5 +1,3 @@
-''' a = 1
-b = 3 '''
 
 a = int(input("Masukkan nilai a: "))
 b = int(input("Masukkan nilai b: "))

@@ -10,9 +10,8 @@ for x in range(jumlahNilai):
 
 print("Hasil inputan:", array, "\nJumlah array: ", len(array))
 # print("")
-print("Menampilkan isi array manual:\n")
+print("Menampilkan isi array manual: ")
 gorengan = ['bala-bala', 'risoles', 'ubi-goreng']
 
-# print(gorangan)
 for g in gorengan:
     print(g)
